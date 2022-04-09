@@ -2,7 +2,9 @@
 
 **Negrito**
 ---
-__italico__
+_itálico_
+---
+**_Negtito e itálico_**
 ---
 
 ### Ingredientes
