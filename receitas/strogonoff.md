@@ -1,8 +1,9 @@
 # strogonoff de Frango :chicken:
 
+**Negrito**
 ---
-
-**Negrito** **italico**
+__itálico__
+---
 
 ### Ingredientes
 
